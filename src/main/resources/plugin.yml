@@ -1,0 +1,4 @@
+name: Unknownfire
+version: @version@
+main: com.wtp016.unknownfire.Unknownfire
+api-version: 1.15
